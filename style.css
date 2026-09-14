@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    background-position-y: center;
+}
+
+/* .header {
+    margin: 20px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.card-home {
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.241);
+
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: max-content;
+} */
+
+
+
+/* .card-home-title {
+    font-weight: bold;
+}
+
+.menu-items {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.card-home-name {
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+}
+
+.card-streets {
+     padding: 20px;
+    background-color: rgba(128, 128, 128, 0.241);
+
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: max-content;
+}
+
+.card-streets-city {
+    display: flex;
+    flex-direction: column;
+    font-style: oblique;
+
+} */
+
+/* .container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.card-container {
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.241);
+
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: max-content;
+} */
+
+/* .cards {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 250px;
+    padding: 20px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+/* #homes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+} */
+
+
+
+
+
+
+
+
+.card-people  {
+    margin-bottom: 30px;
+}
+
+.card-homes {
+    margin-bottom: 30px;
+}
+
+.card-streets {
+    margin-bottom: 30px;
+}
+
+
+
+.card-people-title {
+    margin-bottom: 15px;
+}
+
+.card-homes-title {
+    margin-bottom: 15px;
+}
+
+.card-streets-title {
+    margin-bottom: 15px;
+}
+
+
+
+
+
+#famousPeople {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+#homes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+#streets {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+
+
+
+.card {
+    width: 250px;
+    padding: 20px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+
+
+.filter {
+    width: 250px;
+    padding: 20px;
+    background-color:rgba(216, 224, 138, 0.942) ;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+/* .stranita {
+    width: 250px;
+    padding: 20px;
+    background-color:palegoldenrod ;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+} */
+
+
+.card-bolvanka {
+    width: 250px;
+    padding: 20px;
+    margin: auto;
+    background-color:palegoldenrod ;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+    display: flex;
+    flex-direction: column;
+    font-style: oblique;
+    word-spacing: 4px;
+   
+
+    writing-mode: horizontal-tb;
+    
+}
+
+.card-menu-products {
+    display: flex;
+    gap: 10px;
+}
+
+
+.d-none {
+    display: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .card-bolvanka {
+    transform: translateY(-10px);
+} */

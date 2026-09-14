@@ -1,0 +1,186 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    margin: 20px;
+    height: 200vh;
+}
+/* .red{
+    color: red;
+}
+
+.f-24{
+    font-size: 24px;
+}
+
+#fs-24{
+    font-size: 24px;
+}
+
+.green {
+    color: green;
+} */
+
+/* .text-red {
+    color: red;
+    background: yellow;
+}
+
+.text-yellow {
+    color: yellow;
+    background-color: red;
+    margin-top: 10px;
+}
+
+.text-yellow *{
+    padding: 20px;
+}
+
+.text-green {
+    color: green;
+    background-color: pink;
+    margin-top: 30px;
+} */
+
+/* .border-text{
+    color: black;
+    background-color: brown;
+    border: 4px solid rgb(51, 0, 255); 
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.p{
+    color: blueviolet;
+    background-color: black;
+    border: 2px dashed brown;
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    height: 30px;
+
+
+}
+ /*
+
+.flex {
+    display: flex;
+    height: 400px;
+    flex-direction: row;
+    gap: 20px;
+} */
+
+/* .button{
+    background-color: blueviolet;
+    padding: 10px 30px;
+    margin: 10px;
+    border: 0px;
+    border-radius: 4px;
+    transition: 2s;
+}
+
+.button:hover{
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.button:focus{
+    color: aqua;
+} */
+
+/* .button-red{
+    background-color: red;
+
+}
+
+.button-green{
+    background-color: green;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.button-blue{
+    background-color: blue;
+    position: fixed;
+    left: 10px;
+    top: 10px;
+
+}
+
+.button_collection{
+    margin: 300px;
+    position: relative;
+} */
+/* 
+.flex-container {
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+    gap: 4px;
+}
+
+@media (max-width : 600px) {
+    .flex-container {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width : 400px) {
+    button {
+        color: red
+    }
+}
+
+@media (max-width : 500px) {
+    button:hover{
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    
+}
+} */
+
+/* .hibur-mono-regular {
+  font-family: "Hibur Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2.5;
+
+  font-weight:small;
+  text-transform: lowercase;
+  text-align: left;
+    font-style: italic;
+
+  color: red !important;
+  color: green;
+
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+.blue{
+    color: blue;
+}
+
+.text{
+    cursor: pointer;
+}
+.card-bolvanka {
+     transition: margin-right 2s;
+     transform: rotate();
+}
+
+.filter {
+     transition: margin-right 2s;
+     transform: rotate();
+}
+
+
