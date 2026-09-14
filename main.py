@@ -74,13 +74,6 @@ class Storage:
 
 
 
-class Computer:
-
-    def __init__(self, cpu, ram, storage):
-        self.cpu = cpu
-        self.ram = ram
-        self.storage = storage
-
     def show_info(self):
         print("\n=== COMPUTER ARCHITECTURE (OOP Model) ===")
         self.cpu.info()
