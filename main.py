@@ -73,6 +73,8 @@ class Storage:
         print(f"Capacity: {self.size} GB")
 
 
+
+ 
 class Computer:
 
     def __init__(self, cpu, ram, storage):
