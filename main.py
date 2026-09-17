@@ -62,18 +62,6 @@ class RAM:
         print(f"RAM size: {self.size} GB")
 
 
-class Storage:
-
-    def __init__(self, device, size):
-        self.device = device
-        self.size = size
-
-    def info(self):
-        print(f"Storage type: {self.device}")
-        print(f"Capacity: {self.size} GB")
-
-
-
     def show_info(self):
         print("\n=== COMPUTER ARCHITECTURE (OOP Model) ===")
         self.cpu.info()
